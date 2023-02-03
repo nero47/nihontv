@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:23,NHK G (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:23,NHK E (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+#EXTINF:24,Fuji TV (480p)
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:39,TBS (540p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tbs2.mov3.co/hls/tbs.m3u8
+#EXTINF:27,TV Tokyo (480p)
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:26,TV Asahi (480p)
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:22,J Sports 1 (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:24,J Sports 2 (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:20,J Sports 3 (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:0,J Sports 4 (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
+#EXTINF:24,Tokyo MX1 (480p)
+#EXTVLCOPT:network-caching=1000
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:24,Tokyo MX2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:24,Weathernews (720p)
+#EXTVLCOPT:network-caching=1000
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
